@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/category_clothing"
+        android:enabled="true"
+        android:title="@string/category_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/category_home"
+        android:enabled="true"
+        android:title="@string/category_fav"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/category_popsicles"
+        android:enabled="true"
+        android:title="@string/category_cart"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        app:showAsAction="ifRoom"/>
+</menu>

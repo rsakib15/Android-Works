@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="shr_product_category">Get your Best Gifts</string>
+    <string name="shr_product_description">
+        Choose fun, exciting, and unique product from here.
+    </string>
+    <string name="category_dashboard">Dashboard</string>
+    <string name="category_fav">Favorite</string>
+    <string name="category_cart">Cart</string>
+</resources>
